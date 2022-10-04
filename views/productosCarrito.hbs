@@ -10,15 +10,15 @@
 
 <body>
      <div class="row">
-        <div id="divFormulario" class="col-md-8 offset-md-2" style="background-color:rgba(179, 177, 177, 0.963)">
-            <div class="row">
+        <div id="divFormulario" class="col-md-8 offset-md-2">
+            <div class="row text-center">
                 <div class="col-md-12">
                     <h1>Carrito Compras</h1>
                 </div>
             </div>
             <div class="mt-3 row">
                 <div class="col-md-8 offset-md-2">
-                    <table id="gridProductosCarrito" class="table table-dark" style="width: 100%;">
+                    <table id="gridProductosCarrito" style="width: 100%;">
                         <thead class="thead-dark">
                             <th scope="col" style="width: 25%;">Titulo</th>
                             <th scope="col" style="width: 25%;">Precio</th>
@@ -40,17 +40,17 @@
                 <div class="col-md-8 offset-md-2 text-center">
                     <div class="col-md-12">
                         <div class="col-md-3 offset-md3">
-                            <button type="button" class="btn btn-primary" onclick="goSignup()">HOME</button>
+                            <button type="button" class="btn btn-outline-primary" onclick="goSignup()">HOME</button>
                         </div>
                         <div class="col-md-3">
-                            <button type="button" class="btn btn-primary" onclick="redireccionar('/api/productos')">PRODUCTOS</button>
+                            <button type="button" class="btn btn-outline-primary" onclick="redireccionar('/api/productos')">PRODUCTOS</button>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-8 offset-md-2 text-center">
-                    <button type="button" class="btn btn-primary" id="btnPedido"><i class="fa fa-envelope"></i> Solicitar Pedido</button>
+                    <button type="button" class="btn btn-outline-primary" id="btnPedido"><i class="fa fa-envelope"></i> Solicitar Pedido</button>
                 </div>
             </div>
         </div>

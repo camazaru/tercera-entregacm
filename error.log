@@ -112,3 +112,33 @@
 {"level":"error","message":"Ruta GET/failsignup error en signup"}
 {"level":"error","message":" Ruta POST/ error al registrar usuario"}
 {"level":"error","message":"Ruta GET/failsignup error en signup"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afd2:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afd8:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afd1:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afd4:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afd7:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afd2:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afd1:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afd4:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afd2:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afd2:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/6335b54b54e946781861afda:  TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}

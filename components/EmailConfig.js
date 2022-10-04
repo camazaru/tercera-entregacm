@@ -4,7 +4,7 @@ import twilio from 'twilio'
 
 dotenv.config()
 
-const TEST_MAIL = "simon.daniel.meraz@gmail.com"
+const TEST_MAIL = "cmzruiz@gmail.com"
 const trasporter = createTransport ({
     service: "gmail",
     port: 587,
@@ -32,7 +32,7 @@ async function EnvioCorreo(mailOptions) {
 
 async function EnvioWhats(whatsOption) {
     try{
-        const MensajeWhats = await client.messages .create(whatsOption)
+        const MensajeWhats = await client.messages.create(whatsOption)
         //console.log(info)
     }
     catch(error){
